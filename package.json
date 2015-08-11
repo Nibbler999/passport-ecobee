@@ -1,0 +1,30 @@
+{
+  "name": "passport-ecobee",
+  "version": "1.0.0",
+  "description": "Provides an ecobee authentication strategy for Passport",
+  "keywords": [
+    "passport",
+    "ecobee"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Nibbler999/passport-ecobee"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "main": "./lib/passport-ecobee",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/Nibbler999/passport-ecobee/issues"
+  }
+}
